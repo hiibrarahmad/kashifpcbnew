@@ -1,0 +1,294 @@
+Removed Member From Class: ClassName=Sheet1 Member=*
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change Comment: Unknown Component : U?
+Change component parameters: Component "U?" not found
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "dnp"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "47uf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "47uf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "47UF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "47UF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "46uf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "1UF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "1UF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "100nf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "100UF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56X25LL10T15)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(FP-LQH31CN_03-MFG)
+Add component (AddParameter): Name = "Inductance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(FP-LQH31CN_03-MFG)
+Add component (AddParameter): Name = "Inductance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(FP-LQH31CN_03-MFG)
+Add component (AddParameter): Name = "Inductance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "99.6K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "99.6K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "99.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "9.89k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "451.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "239.6k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "178K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "126.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "VALUE"; Value = "42.8k"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFN35P1230X1230X90_HS-129N)
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=+5 Pin=U?-3
+Added Net: Name=+5
+Added Net: Name=A2
+Added Net: Name=A3
+Added Net: Name=A5
+Added Net: Name=A6
+Added Net: Name=A7
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=C?-2
+Added Pin To Net: NetName=A10 Pin=L?-1
+Added Pin To Net: NetName=A10 Pin=L?-1
+Added Pin To Net: NetName=A10 Pin=R?-2
+Added Pin To Net: NetName=A10 Pin=R?-2
+Added Pin To Net: NetName=A10 Pin=U?-6
+Added Net: Name=A10
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=C?-2
+Added Pin To Net: NetName=A13 Pin=L?-1
+Added Pin To Net: NetName=A13 Pin=R?-1
+Added Pin To Net: NetName=A13 Pin=R?-2
+Added Pin To Net: NetName=A13 Pin=R?-2
+Added Pin To Net: NetName=A13 Pin=U?-6
+Added Net: Name=A13
+Added Net: Name=A23
+Added Pin To Net: NetName=A25 Pin=R?-2
+Added Net: Name=A25
+Add Net: Net with name "A25" already exists
+Added Net: Name=CSI_RX_CLK0N
+Added Net: Name=CSI_RX_CLK0P
+Added Net: Name=CSI_RX_D0_N
+Added Net: Name=CSI_RX_D0_P
+Added Net: Name=CSI_RX_D1_N
+Added Net: Name=CSI_RX_D1_P
+Added Net: Name=CSI_RX_D2_N
+Added Net: Name=CSI_RX_D2_P
+Added Net: Name=CSI_RX_D3_N
+Added Net: Name=CSI_RX_D3_P
+Added Net: Name=D19
+Added Net: Name=D20
+Added Net: Name=D22
+Added Net: Name=D23
+Added Net: Name=D25
+Added Net: Name=D26
+Added Net: Name=D27
+Added Net: Name=D28
+Added Net: Name=D29
+Added Net: Name=D30
+Added Net: Name=D31
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-5
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=U?-4
+Added Net: Name=NetL?_2
+Add Net: Net with name "NetL?_2" already exists
+Add Net: Net with name "NetL?_2" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=P12 Pin=C?-2
+Added Pin To Net: NetName=P12 Pin=R?-1
+Added Net: Name=P12
+Added Net: Name=TP
+Change Class Name : Old Net Name=Sheet1 New Net Name=Sheet2
+Added Class: Name=CSI
+Added Class: Name=ETHER
+Added Class: Name=Sheet1
+Added Class: Name=THERMAL
+Added Class: Name=CSI_DIFF
+Add Differential Pair: Number of nets in differential pair CSI_RX_CLK0N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CSI_RX_CLK0P is 1 instead of 2
+Added Differential Pair: Name=CSI_RX_D0
+Added Differential Pair: Name=CSI_RX_D1
+Added Differential Pair: Name=CSI_RX_D2
+Added Differential Pair: Name=CSI_RX_D3
+Added Member To Class: ClassName=Sheet2 Member=Component C?
+Added Member To Class: ClassName=Sheet2 Member=Component C? dnp
+Added Member To Class: ClassName=Sheet2 Member=Component C? 47uf
+Added Member To Class: ClassName=Sheet2 Member=Component C? 47uf
+Added Member To Class: ClassName=Sheet2 Member=Component C? 47UF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 47UF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 46uf
+Added Member To Class: ClassName=Sheet2 Member=Component C? 1uf
+Added Member To Class: ClassName=Sheet2 Member=Component C? 1uf
+Added Member To Class: ClassName=Sheet2 Member=Component C? 1UF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 1UF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 100nf
+Added Member To Class: ClassName=Sheet2 Member=Component C? 100UF
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? 1uf
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component C? *
+Added Member To Class: ClassName=Sheet2 Member=Component L?
+Added Member To Class: ClassName=Sheet2 Member=Component L?
+Added Member To Class: ClassName=Sheet2 Member=Component L?
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 126.5K
+Added Member To Class: ClassName=Sheet2 Member=Component R? 178K
+Added Member To Class: ClassName=Sheet2 Member=Component R? 239.6k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 42.8k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 451.3K
+Added Member To Class: ClassName=Sheet2 Member=Component R? 9.89k
+Added Member To Class: ClassName=Sheet2 Member=Component R? 99.3K
+Added Member To Class: ClassName=Sheet2 Member=Component R? 99.6K
+Added Member To Class: ClassName=Sheet2 Member=Component R? 99.6K
+Added Member To Class: ClassName=Sheet2 Member=Component U? SOT563
+Added Member To Class: ClassName=Sheet2 Member=Component U? SOT563
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Class: Name=CSI

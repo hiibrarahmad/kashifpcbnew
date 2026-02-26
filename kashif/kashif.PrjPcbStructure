@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=CSI.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=CSI.SchDoc|FileName=ETHER.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=CSI.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CSI.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=CSI.SchDoc|FileName=THERMAL.SchDoc|SheetNumber=3
